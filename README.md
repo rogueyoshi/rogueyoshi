@@ -15,4 +15,5 @@
 <details>
 <summary></summary>
 <img src="https://visitor-badge.glitch.me/badge?page_id=rufus31415"/>
+<img src="https://ga-beacon.appspot.com/UA-163892314-2/rufus31415/>
 </details>
