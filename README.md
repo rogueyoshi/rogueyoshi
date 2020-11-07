@@ -1,6 +1,6 @@
 ### 👋 Hi there, what's up?
 
-![](https://github-readme-stats.vercel.app/api?username=rufus31415&show_icons=true)
+[![](https://github-readme-stats.vercel.app/api?username=rufus31415&show_icons=true)](https://github.com/Rufus31415)
 
 🌐 **Website** : https://rufus31415.github.io
 
