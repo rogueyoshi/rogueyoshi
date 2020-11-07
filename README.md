@@ -1,7 +1,5 @@
 ### 👋 Hi there, what's up?
 
-I am Florent, I share here, on GitHub, my contributions to various projects. 
-
 ![](https://github-readme-stats.vercel.app/api?username=rufus31415&show_icons=true)
 
 🌐 Website : https://rufus31415.github.io
