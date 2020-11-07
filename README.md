@@ -2,18 +2,15 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=rufus31415&show_icons=true)
 
-🌐 Website : https://rufus31415.github.io
+🌐 **Website** : https://rufus31415.github.io
 
-🐦 Twitter : https://twitter.com/rufus31415
+🐦 **Twitter** : https://twitter.com/rufus31415
 
-📧 Mail : rufus31415@gmail.com
+📧 **Mail** : rufus31415@gmail.com
 
-💬 Slack : https://holodevelopers.slack.com/team/U0120CVDUCV
+💬 **Slack** : https://holodevelopers.slack.com/team/U0120CVDUCV
 
-💬 Discord : Rufus31415#2440
-
-
-
+👾 **Discord** : Rufus31415#2440
 
 <details>
 <summary></summary>
