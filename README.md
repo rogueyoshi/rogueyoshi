@@ -1,16 +1,23 @@
-### Hi there 👋
+### 👋 Hi there, what's up?
 
-<!--
-**Rufus31415/Rufus31415** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Florent, I share here, on GitHub, my contributions to various projects. 
 
-Here are some ideas to get you started:
+![](https://github-readme-stats.vercel.app/api?username=rufus31415&show_icons=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 Website : https://rufus31415.github.io
+
+🐦 Twitter : https://twitter.com/rufus31415
+
+📧 Mail : rufus31415@gmail.com
+
+💬 Slack : https://holodevelopers.slack.com/team/U0120CVDUCV
+
+💬 Discord : Rufus31415#2440
+
+
+
+
+<details>
+<summary></summary>
+<img src="https://visitor-badge.glitch.me/badge?page_id=rufus31415"/>
+</details>
