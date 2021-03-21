@@ -12,6 +12,8 @@
 
 👾 **Discord** : Rufus31415#2440
 
+👲 Clubhouse : @fgi
+
 <details>
 <summary></summary>
 <img src="https://ga-beacon.appspot.com/UA-163892314-2/rufus31415/">
