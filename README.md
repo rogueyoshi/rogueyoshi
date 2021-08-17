@@ -2,7 +2,7 @@
 
 [![](https://github-readme-stats.vercel.app/api?username=rogueyoshi&show_icons=true)](https://github.com/rogueyoshi)
 
-🌐 **Website* : https://rogueyoshi.com
+🌐 **Website** : https://rogueyoshi.com
 
 🐦 **Twitter** : https://twitter.com/rogueyoshi
 
