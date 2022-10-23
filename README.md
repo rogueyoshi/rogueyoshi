@@ -8,7 +8,7 @@
 
 📧 **Mail** : mail@rogueyoshi.com
 
-👾 **Discord** : rogueyoshi.com/coaching#5555
+👾 **Discord** : rogueyoshi.com/discord
 
 <details>
 <summary></summary>
